@@ -1,0 +1,4 @@
+https://github.com/makalex/java-rush/tree/master/src/main/java/com/javarush/test/level28/lesson15/big01/model
+
+http://help.javarush.ru/search/?csrfmiddlewaretoken=YJzgMVvFCtjUdIVLZfCcMl8nhjQBoQRc&q=level28.lesson15.big01&Submit=%D0%BF%D0%BE%D0%B8%D1%81%D0%BA&t=question
+
